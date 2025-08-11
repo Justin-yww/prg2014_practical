@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Tue Aug 12 01:10:18 GMT+08:00 2025:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.17.1.0 - (1913217): instance a816c00e-0198-9a1c-89a3-00002f800000 
+on database directory /Users/justinyong/Desktop/Code/Scala/oop_su/AddressApp2025/myDB with class loader sbt.internal.LayeredClassLoader@45a890da 
+Loaded from file:/Users/justinyong/Desktop/Code/Scala/oop_su/AddressApp2025/target/bg-jobs/sbt_65992377/target/7f0ae3ea/1935e161/derby-10.17.1.0.jar
+java.vendor=Homebrew
+java.runtime.version=24.0.2
+user.dir=/Users/justinyong/Desktop/Code/Scala/oop_su/AddressApp2025
+os.name=Mac OS X
+os.arch=aarch64
+os.version=15.6
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
